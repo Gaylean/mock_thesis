@@ -3,3 +3,8 @@ hello. Here is a trivial change.
 Adding another line...
 
 This is a very short thesis.  I'm adding text to see how GitHub works!! Yay for GitHub.
+
+
+_______
+
+Part 2 -- now I'm making changes to my text again after I downloaded from GitHub.
