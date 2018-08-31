@@ -1,3 +1,5 @@
 hello. Here is a trivial change.
 
 Adding another line...
+
+This is a very short thesis.  I'm adding text to see how GitHub works!! Yay for GitHub.
